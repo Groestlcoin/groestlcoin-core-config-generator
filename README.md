@@ -1,14 +1,14 @@
-# Bitcoin Core Config Generator
+# Groestlcoin Core Config Generator
 
-[![Build Status](https://travis-ci.org/jlopp/bitcoin-core-config-generator.svg?branch=master)](https://travis-ci.org/jlopp/bitcoin-core-config-generator) An online generator is [available here](https://jlopp.github.io/bitcoin-core-config-generator)
+An online generator is [available here](http://config.groestlcoin.org/)
 
 What is this?
 -------------
 
-[Bitcoin](https://bitcoin.org/) is the world's first peer-to-peer digital currency that has no central authority.
-[Bitcoin Core](https://bitcoincore.org) is the original and most popular Bitcoin node software that anyone can use
-to harness the full security features of the Bitcoin protocol and operate without trusting any third parties. However,
-there are over 140 configuration options for Bitcoin Core and more are added with each release. This generator is meant
+[Groestlcoin](https://groestlcoin.org/) is a peer-to-peer digital currency that has no central authority.
+Groestlcoin Core is the original and most popular groestlcoin node software that anyone can use
+to harness the full security features of the Groestlcoin protocol and operate without trusting any third parties. However,
+there are over 140 configuration options for Groestlcoin Core and more are added with each release. This generator is meant
 to expose and explain all of those options so that any user can make the most of the flexibility available to them.
 
 Features
@@ -35,4 +35,4 @@ Available preset configurations:
 License
 -------
 
-The Bitcoin Core Config Generator is released under the terms of the GPL. See [LICENSE](LICENSE) for more information.
+The Groestlcoin Core Config Generator is released under the terms of the GPL. See [LICENSE](LICENSE) for more information.

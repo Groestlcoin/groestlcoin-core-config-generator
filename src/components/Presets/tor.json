@@ -1,15 +1,15 @@
 {
   "network": {
-  	"bind": "127.0.0.1:8333",
+  	"bind": "127.0.0.1:1331",
   	"externalip": "your_tor_address.onion",
     "listenonion": 1,
     "onion": 1,
     "onlynet": "onion",
     "proxyrandomize": 1,
-    "seednode": "nkf5e6b7pl4jfd4a.onion",
-    "seednode": "e3tn727fywnioxrc.onion",
-    "seednode": "nkf5e6b7pl4jfd4a.onion",
-    "seednode": "hhiv5pnxenvbf4am.onion",
+    "seednode": "4ob2v2hpht6krdta.onion",
+    "seednode": "6brsrbiinpc32tfc.onion",
+    "seednode": "xkj42efxrcy6vbfw.onion",
+    "seednode": "7bmwzyc2faisc7ct.onion",
     "torcontrol": "127.0.0.1:9051",
     "torpassword": ""
   }
